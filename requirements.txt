@@ -1,0 +1,7 @@
+dnspython
+nmap
+requests
+shodan
+theHarvester
+python-whois
+argparse
